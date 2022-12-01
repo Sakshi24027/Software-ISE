@@ -2,7 +2,7 @@
 //deletion of duplicates from a sorted array.
 
 int main(){
-
+  int a,b;
     int size;
     printf("enter size: ");
     scanf("%d",&size);
