@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 int main(){
-
+ //Adding a comment
     int size;
     printf("enter size:");
     scanf("%d",&size);
